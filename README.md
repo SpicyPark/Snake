@@ -1,2 +1,2 @@
 # Snake
- Simple snake game.
+Visit https://github.com/SpicyPark/Snake/releases for more information.
